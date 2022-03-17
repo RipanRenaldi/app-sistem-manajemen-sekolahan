@@ -1,0 +1,27 @@
+.dashboard{
+	width: 200px;
+	height: 1000px;
+	box-sizing: border-box;
+	float: left;
+	background-color: #eee;
+}
+
+.search {
+	margin-top: 10px;
+}
+
+.db li a{
+	text-decoration: none;
+	color: black;
+	display: block;
+	padding: 10px;
+}
+
+li{
+	list-style: none;
+}
+
+.db li a:hover{
+	color: red;
+	transition: 0.5s;
+}
